@@ -1,0 +1,30 @@
+[
+  {
+    "file": "hero.jpg",
+    "provider": "Unsplash image CDN",
+    "photo_id": "photo-1464822759023-fed622ff2c3b",
+    "source_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=85",
+    "usage": "Illustrative stock photograph for fictional Avalon concept; no affiliation or claimed property ownership.",
+    "retrieved": "2026-10-31",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 454844,
+    "sha256": "a93eb2dfec3896f31ee685c854499073da01bd8c95cef2bc83891b7d8bc071f2",
+    "description": "Mountain valley and forest under a blue sky",
+    "verification": "JPEG signature, decoded dimensions and visual inspection passed"
+  },
+  {
+    "file": "detail.jpg",
+    "provider": "Unsplash image CDN",
+    "photo_id": "photo-1519681393784-d120267933ba",
+    "source_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1400&q=85",
+    "usage": "Illustrative stock photograph for fictional Avalon concept; no affiliation or claimed property ownership.",
+    "retrieved": "2026-10-31",
+    "width": 1400,
+    "height": 934,
+    "bytes": 294357,
+    "sha256": "f2859f12c81d05c85e03ffc3c6d266e0b40972c52003c7a0c662b16f7e04d560",
+    "description": "Star-filled night sky above snow-covered mountains",
+    "verification": "JPEG signature, decoded dimensions and visual inspection passed"
+  }
+]
